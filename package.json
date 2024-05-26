@@ -1,6 +1,6 @@
 {
   "name": "@erboladaiorg/modi-iure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -42,7 +42,7 @@
     "@kollorg/nihil-veniam-deserunt": "^1.2.21",
     "@swenkerorg/nulla-voluptates-voluptates": "^1.2.21",
     "@zitterorg/eum-veritatis-placeat": "^2.1.21",
-    "@zitterorg/illum-perferendis-consectetur": "^2.2.20",
+    "@zitterorg/illum-perferendis-consectetur": "^2.2.21",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
